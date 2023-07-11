@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clot_types">
+        <item>Clot Type</item>
+        <item>Arterial Thrombosis</item>
+        <item>Venous Thrombosis</item>
+    </string-array>
+</resources>
